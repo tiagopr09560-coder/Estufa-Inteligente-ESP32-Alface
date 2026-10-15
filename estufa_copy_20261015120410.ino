@@ -1,6 +1,6 @@
 #define BLYNK_TEMPLATE_ID "TMPL2Net45nJ5"
 #define BLYNK_TEMPLATE_NAME "Estufa Inteligente"
-#define BLYNK_AUTH_TOKEN "Q3hc2aki0ubY9s8eriXZGiU8gad3uhxJ"
+#define BLYNK_AUTH_TOKEN "(SEU TOKEN)"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
@@ -11,8 +11,8 @@
 // WIFI
 // =====================================================
 
-char ssid[] = "Tiago";
-char pass[] = "internet4m";
+char ssid[] = "(REDE WIFI)";
+char pass[] = "(SENHA DO WIFI)";
 
 // =====================================================
 // DHT11
